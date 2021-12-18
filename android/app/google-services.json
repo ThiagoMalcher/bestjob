@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "541574108300",
+    "project_id": "bestjob-8d699",
+    "storage_bucket": "bestjob-8d699.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541574108300:android:b61fe803323b952a53d7a9",
+        "android_client_info": {
+          "package_name": "com.bestjob.bestjob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541574108300-6juflgjqhi7f80rv3l87bmi3on18vj0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-mLeZB4GqH6V0gqkhSKkJ5jBSeW-a1Y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541574108300-6juflgjqhi7f80rv3l87bmi3on18vj0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
